@@ -1,0 +1,26 @@
+/* Admin Panel */
+body.admin {
+    background: #f0f8ff;
+}
+
+header.admin {
+    background: #343a40;
+    color: #fff;
+}
+
+.admin-nav {
+    background: #007bff;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.admin-nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.admin-nav a:hover {
+    text-decoration: underline;
+}
